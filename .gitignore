@@ -1,0 +1,4 @@
+.bash_env
+appname_dashboard/
+appname_api/
+*.pyc
